@@ -1,0 +1,15 @@
+---
+title: "A Logical Framework for Statistical Evidence"
+author: "Ben Buzzee"
+date: "May 21, 2018"
+permalink: /posts/2018/06/blog-post-2/
+date: "June 26, 2018"
+output: html_document
+---
+
+
+
+
+
+
+
