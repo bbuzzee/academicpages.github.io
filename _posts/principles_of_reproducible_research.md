@@ -1,5 +1,5 @@
 ---
-title: "Overview of Reproducible Research"
+title: "Principles of Reproducible Research"
 author: Ben Buzzee, Biometrician I
 date: "May 21, 2018"
 fontsize: 14pt
