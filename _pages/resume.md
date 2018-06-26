@@ -26,7 +26,7 @@ Work experience
   
 * Summer 2016: Data Science Intern
   * Workiva, Ames, Iowa
-  * Duties: Wrote a reporting package that automatically generates in-line HTML email reports. Performed ad-hoc data wrangling and statistical analysis.
+  * Duties: Wrote a reporting package that automatically generates daily email reports with in-line HTML tables. Performed ad-hoc data wrangling and statistical analysis.
 
 
 
