@@ -2,6 +2,7 @@
 title: "Principles of Reproducible Research"
 author: Ben Buzzee, Biometrician I
 date: "May 21, 2018"
+permalink: /posts/blog2
 fontsize: 14pt
 output: 
   html_document
