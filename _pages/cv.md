@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
+* B.S. Concentration: Pure Mathematics, Bridgewater State University, 2015
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
