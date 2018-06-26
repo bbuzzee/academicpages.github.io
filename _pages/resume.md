@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. Concentration: Pure Mathematics, Bridgewater State University, 2015
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Mathematics, Bridgewater State University, 2015
+* M.S. in Statistics, Iowa State University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2018 - Present: Biometrician
+  * Alaska Department of Fish and Game
+    Duties Include: Designing mark-recapture studies, coded-wire tag analysis, miscellaneous quantitative consulting with biologists.
+    
+* Fall 2015-Fall 2017: Graduate Research Assistant
+  * Iowa State University
+  * Duties included: Teaching a 60 student section of introductory statistics. Lectured and Wrote/graded exams.
+  
+* Summer 2016: Data Science Intern
+  * Workiva
+  * Duties included: Wrote a reporting package that generates automated in-line HTML email reports. Performed ad-hoc data wrangling and statistical analysis.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
   
 Skills
 ======
@@ -48,12 +52,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
