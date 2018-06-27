@@ -22,7 +22,7 @@ Work experience
     
 * Fall 2015 - Fall 2017: Graduate Research Assistant
   * Iowa State University, Ames, Iowa
-  * Duties: Taught a 60 student section of introductory statistics. Lectured and Wrote/graded exams.
+  * Duties: Taught a 60 student section of introductory statistics. Lectured and wrote/graded exams.
   
 * Summer 2016: Data Science Intern
   * Workiva, Ames, Iowa

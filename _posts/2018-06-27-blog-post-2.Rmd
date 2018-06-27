@@ -7,8 +7,7 @@ date: "June 26, 2018"
 output: html_document
 ---
 
-
-
+Confidence intervals and hypothesis tests.... Bayesian and Frequentist. What do they prove? What logic do they rely on to prove it? When can they be relied on as evidence of truth?
 
 
 
