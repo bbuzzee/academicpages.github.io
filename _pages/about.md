@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Ben Buzzee. 
+This is my personal website. I use the blog to organize and refine my thoughts about science and math.

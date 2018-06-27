@@ -7,4 +7,4 @@ redirect_from:
   - /projects
 ---
 
-List and explain projects here,
+List and explain projects here.
