@@ -1,5 +1,5 @@
 ---
-title: "Confidence Intervals and Hypothesis Testing: Statistical Nonsense?"
+title: "Statistics 101: Bayesian Edition"
 author: "Ben Buzzee"
 permalink: /posts/2018/06/blog-post-2/
 date: "June 26, 2018"
@@ -25,7 +25,6 @@ trived and anti-intuitive that it's no wonder that students have difficulties
 ingesting it." - William Briggs
 
  * "It is unanimously agreed that statistics depends somehow on probability. But, as to what probability is and how it is connected with statistics, there has seldom been such complete disagreement and breakdown of communication since the Tower of Babel. Doubtless, much of the disagreement is merely terminological and would disappear under sufficiently sharp analysis." Savage, 1954, pg 9
-
 
 
 Logical Foundations: How does statistical evidence lead to understanding "truth" in nature? Popperian style falsification? Are hypothesis tests useful or are they misleading? "Accepting the Alternative?" A statistical procedure needs to be paired with a logical framework in order to draw conclusions about the natural world.
