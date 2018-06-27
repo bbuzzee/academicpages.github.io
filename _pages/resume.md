@@ -20,7 +20,7 @@ Work experience
   * Alaska Department of Fish and Game, Anchorage, AK
   * Duties: Design mark-recapture studies, conduct coded-wire tag analysis, serve as a quantitative consultant to biologists.
     
-* Fall 2015-Fall 2017: Graduate Research Assistant
+* Fall 2015 - Fall 2017: Graduate Research Assistant
   * Iowa State University, Ames, Iowa
   * Duties: Taught a 60 student section of introductory statistics. Lectured and Wrote/graded exams.
   
