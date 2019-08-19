@@ -33,12 +33,13 @@ Finally, we can take a look at interest rate indicators:
 
 Typically, in the last stages of an economic expansion the yield curve dips negative and the federeal reserve stops raising or lowers the federal funds rate. At present, the 10 year minus 3 month treasury yield is negative, and the federal reserve has just cut rates for the first time since the great financial crisis. (.25 bp cut at July 2019 meeting)
 
-So, given where we currently stand in the business cycle, it is fair to assume we will have a recession within the next 2-3 years.
+The is one major obstacle to using the above indicators: Timing. Unemployment _could_ dip down to record lows below 3%. The output gap _could_ stay positive for several years. The Fed _could_ be making a mid cycle adjustment similar to the mid 1990s. We don't have any good indications that a recession is imminent. An uptick in unemployment or a drop in real retail sales would be such indicators. 
 
 # 2. Where do we go from here?: Trends and Intervention
 
 Interest rates have been declining for decades:
 ![](../images/yields10.png)
+
 
 Will continue until major stimulus - last time it was the war effort.
 Global growth is slowing - a recession is imminent, question is timing. 
@@ -47,5 +48,15 @@ Monetary intervention: QE and cutting rates
 # 3. Why Gold?
 
 Correlation with real rates
-Negative yields plus high stock market valuations/low growth could push people out of treasuries
+Negative yields plus high stock market valuations/low growth could push people out of treasuries as a safe haven.
 Currency wars to spark growth
+
+
+
+# 4. What could go wrong?
+
+
+Scenario 1: The U.S. becomes a beacon of economic strength in a world of negative interest rates and weak economies. The dollar rallies due to capital inflows and decreases demand for gold bought in dollars, lowering the price. But the dollar could strengthen so much that U.S. exports are stemmed, causing a slowdown within the U.S.
+
+Scenario 2: The world recovers from a moderate slowdown. Real interest rates back off of zero and global growth continues. Gold retreats to 1300-1400 an ounce and stays there for years while slow growth carries forward a record breaking expansion.
+
